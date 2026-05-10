@@ -1,0 +1,21 @@
+{
+  "_comment": "Local audio paths (relative to index.html). Spaces URL-encoded as %20. Reload the page after editing.",
+
+  "_india": "— India —",
+  "t1":  "music-assets/indian/Yaman%20Sandhya.mp3",
+  "t7":  "music-assets/indian/Yaman%20Sandhya%20(1).mp3",
+  "t2":  "music-assets/indian/Bhupali%20Tanpura%20Path.mp3",
+  "t8":  "music-assets/indian/Bhupali%20Tanpura%20Path%20(1).mp3",
+
+  "_arabic": "— Arabic —",
+  "t3":  "music-assets/arabic/Courtyard%20Hijaz.mp3",
+  "t9":  "music-assets/arabic/Courtyard%20Hijaz%20(1).mp3",
+  "t4":  "music-assets/arabic/Bayati%20Garden.mp3",
+  "t10": "music-assets/arabic/Bayati%20Garden%20(1).mp3",
+
+  "_japan": "— Japan —",
+  "t5":  "music-assets/japan/%E9%9B%A8%E3%81%AE%E7%90%B4%E6%9F%B1.mp3",
+  "t11": "music-assets/japan/%E9%9B%A8%E3%81%AE%E7%90%B4%E6%9F%B1%20(1).mp3",
+  "t6":  "music-assets/japan/Temple%20Wind%20Path.mp3",
+  "t12": "music-assets/japan/Temple%20Wind%20Path%20(1).mp3"
+}
